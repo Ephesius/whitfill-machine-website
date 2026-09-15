@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+<rect width="1600" height="900" fill="#e4e8ec"/>
+<rect x="10" y="10" width="1580" height="880" fill="none" stroke="#b8c2cc" stroke-width="2" stroke-dasharray="12 9"/>
+<text x="800" y="450" font-family="Barlow, Arial, sans-serif" font-size="75"
+      fill="#8b98a5" letter-spacing="2" text-anchor="middle" dominant-baseline="central">Photo</text>
+</svg>
